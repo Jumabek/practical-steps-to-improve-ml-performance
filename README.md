@@ -1,4 +1,4 @@
-# breast-cancer-classification
+# machine-learning-techniques-tutorial-on-breast-cancer-classification-problem
 Notebook contains uci breast cancer classification tutorial for combria (2018) dataset
 
 # Content
